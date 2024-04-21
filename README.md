@@ -21,8 +21,27 @@
   - droped the unnecessary columns to remove confuctions
 
 ## Performed the EDA In Python:
-- Performed the graphical charts:
-  - Bar plots
-  - Stacked bars plot
+- month-wise
+- year-wise
+- yearly_month-wise
+- Total Revenue Performance by Region:
+- Total Revenue data based on Online & Offline for a Region
+- Top 3 Most Unit Sold Countries in each Region 
 
 ## Using the cleaned dataset performed Interactive Dashboard in Tableau
+- Snap of the Dashboard![Amazon Sales Dashboard](https://github.com/Sonu-77/Amazon-_sales-dataset/assets/166591588/4bdc1ae9-0294-46a6-b037-0bc41707dceb)
+
+
+## Result & Findings: 
+- We can see the month wise total revenue is highest in the month of AUGUST
+- The highest revenue is generated in the year 2017
+- The higest revenue generated in yearly month wise is 2017-August
+- Revenue generated form an Region is higest at SUB-SAHARAN AFRICA
+- As The comparing the plot of Online & Offline, the Revenue generated in Region by Online is highest at  EUPORE Region & the Revenue generated in Region by Offline is highest at SUB-SAHARAN AFRICA
+- Asia : Myanmar, Turkmenistan, Bangladesh
+- Australia and Oceania : Australia, Tuvalu, Fiji
+- Central America and the Caribbean : Honduras, Nicaragua, Costa Rica
+- Europe : Norway, Switzerland, Iceland
+- Middle East and North Africa : Pakistan, Azerbaijan, Lebanon
+- North America : Mexico
+- Sub-Saharan Africa : Sao Tome and Principe, Djibouti, The Gambia
